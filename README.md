@@ -1,5 +1,3 @@
-# Finsight-Bank-Case-Study
-
 # FinSight Bank: NPA Prediction & Credit Risk Modelling
 
 ## Overview
